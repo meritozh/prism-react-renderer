@@ -6,6 +6,7 @@
   "module": "es/index.js",
   "license": "MIT",
   "repository": "git@github.com:FormidableLabs/prism-react-renderer.git",
+  "types": "./index.d.ts",
   "files": [
     "es",
     "lib",
